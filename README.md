@@ -1,3 +1,5 @@
 ## Welcome
 
-[![Luis Cabrero on Linkedin!](<img src="img/linkedin.png" width="100">)](https://www.linkedin.com/in/luiscabrerogarcia/?locale=en_US)
+<a href="https://www.linkedin.com/in/luiscabrerogarcia/?locale=en_US">
+	<img src="img/linkedin.png" alt="Luis Cabrero on Linkedin!" style="max-width: 100px;"/>
+</a>
